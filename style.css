@@ -1,0 +1,6 @@
+#mapid,#meteo{
+    height: 450px;
+}
+.leaflet-marker-icon {
+    border-radius: 50%;
+}
